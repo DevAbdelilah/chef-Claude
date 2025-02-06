@@ -12,7 +12,7 @@ You are an assistant that receives a list of ingredients that a user has and sug
 // live online. Otherwise, anyone could inspect your source
 // and find your API keys/tokens. If you want to deploy
 // this project, you'll need to create a backend of some kind,
-// either your own or using some serverless architecture where
+// either your own or using some serverless architecture wherexxxxxxxxxxxxx
 // your API calls can be made. Doing so will keep your
 // API keys private.
 
